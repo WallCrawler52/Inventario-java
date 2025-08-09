@@ -1,0 +1,4 @@
+comic,Ultimate Spiderman,Jonathan Hickman,2024
+manga,Demon Slayer,Koyohary Gotoge,2016
+manga,Dragon Ball,Akira Toriyama,1984
+comic,All-Star Superman,Grant Morrison,2005
